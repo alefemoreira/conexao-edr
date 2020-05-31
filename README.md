@@ -1,7 +1,7 @@
 # Configurações da Gravação
 
 - Gravar em Vertical
-- Videos
+- Devem ser 3 videos, dos quais
   1. Apresentação 
   2. Histórias
   3. Finalização
@@ -10,7 +10,7 @@
 # Apresentação
 
 1. Siga o Roteiro de Apresentação
-2. A apresentação deve twr até 15 segundos.
+2. A apresentação deve ter ATÉ 15 segundos.
 
 ## Roteiro de Apresentação
 
@@ -27,4 +27,8 @@
 
 ## Roteiro de Finalização
 
-"É isso pessoal essa foi a história do/da $PERSONAGEM_NOME. Não se esqueça de deixar o seu like pra nos ajudar, salvar o vídeo, porque aumenta o alcance e de compartilhar com seus amigos. Deixem também comentários com sugestões de personagens para os próximos vídeos"
+"É isso pessoal essa foi a história d@ $PERSONAGEM_NOME. Não se esqueça de deixar o seu like pra nos ajudar, salvar o vídeo, porque aumenta o alcance e de compartilhar com seus amigos. Deixem também comentários com sugestões de personagens para os próximos vídeos"
+
+# Ajuda
+
+Caso tenha duvidades, mandar para `embaixadores2019@gmail.com`
